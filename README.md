@@ -9,6 +9,6 @@ Welcome to the **TouchGFX Projects** repository! This collection features real-t
 - **KSTM32CubeIDE**  
 - **STM32 HAL Drivers**  
 - **C/C++**
-- - **FreeRTOS**
+- **FreeRTOS**
 
   ![UI](https://github.com/ariatgz/touchGFX/blob/main/photo_2025-05-03_00-54-53.jpg)
