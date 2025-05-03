@@ -1,0 +1,3 @@
+C:/TouchGFXProjects/Keyboard/CM7/TouchGFX/gui/src/model/Model.cpp:13:1:Model::Model()	0	static
+C:/TouchGFXProjects/Keyboard/CM7/TouchGFX/gui/src/model/Model.cpp:19:6:void Model::tick()	0	static
+C:/TouchGFXProjects/Keyboard/CM7/TouchGFX/gui/src/model/Model.cpp:24:6:void Model::sendData(char*)	8	static

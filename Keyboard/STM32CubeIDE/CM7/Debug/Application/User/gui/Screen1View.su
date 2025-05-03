@@ -1,0 +1,16 @@
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+C:/TouchGFXProjects/Keyboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:19:6:virtual void Screen1View::tearDownScreen()	0	static
+C:/TouchGFXProjects/Keyboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:24:6:virtual void Screen1View::NameClicked()	16	static
+C:/TouchGFXProjects/Keyboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:41:6:virtual void Screen1View::AgeClicked()	16	static
+C:/TouchGFXProjects/Keyboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:86:6:virtual void Screen1View::ExitClicked()	16	static
+C:/TouchGFXProjects/Keyboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:58:6:virtual void Screen1View::OkClicked()	16	static
+C:/TouchGFXProjects/Keyboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:103:6:virtual void Screen1View::SendClicked()	24	static
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+../../CM7/../../CM7/TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:12:13:Screen1View::~Screen1View()	8	static
+../../CM7/../../CM7/TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:12:13:virtual Screen1View::~Screen1View()	8	static
+C:/TouchGFXProjects/Keyboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:5:1:Screen1View::Screen1View()	16	static
+C:/TouchGFXProjects/Keyboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:129:1:cpp)	0	static
+C:/TouchGFXProjects/Keyboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:14:6:virtual void Screen1View::setupScreen()	0	static

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.25.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1">
+      <Text Id="AlphaMode" Alignment="Center" TypographyId="mode">
+        <Translation Language="GB">123</Translation>
+      </Text>
+      <Text Id="EnteredText" Alignment="Center" TypographyId="Display">
+        <Translation Language="GB">&lt;placeholder&gt;</Translation>
+      </Text>
+      <Text Id="NumMode" Alignment="Center" TypographyId="mode">
+        <Translation Language="GB">ABC</Translation>
+      </Text>
+    </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_E7UO" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Send</Translation>
+      </Text>
+      <Text Id="__SingleUse_0JOJ" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Quit</Translation>
+      </Text>
+      <Text Id="__SingleUse_G8CK" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">OK</Translation>
+      </Text>
+      <Text Id="__SingleUse_NDY2" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Age:</Translation>
+      </Text>
+      <Text Id="__SingleUse_51BA" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Name:</Translation>
+      </Text>
+      <Text Id="__SingleUse_0VF5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Your age</Translation>
+      </Text>
+      <Text Id="__SingleUse_7ORA" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Your Name</Translation>
+      </Text>
+      <Text Id="__SingleUse_C0KS" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_NYHC" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7e" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Display" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="a-z,A-Z,0-9" />
+    <Typography Id="mode" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="keyboard" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="a-z,A-Z,0-9" />
+  </Typographies>
+</TextDatabase>

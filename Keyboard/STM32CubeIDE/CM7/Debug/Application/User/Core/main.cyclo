@@ -1,0 +1,5 @@
+C:/TouchGFXProjects/Keyboard/CM7/Core/Src/main.c:837:13:TouchGFX_Task	1
+C:/TouchGFXProjects/Keyboard/CM7/Core/Src/main.c:251:6:SystemClock_Config	4
+C:/TouchGFXProjects/Keyboard/CM7/Core/Src/main.c:116:5:main	32
+C:/TouchGFXProjects/Keyboard/CM7/Core/Src/main.c:927:6:HAL_TIM_PeriodElapsedCallback	2
+C:/TouchGFXProjects/Keyboard/CM7/Core/Src/main.c:945:6:Error_Handler	1
