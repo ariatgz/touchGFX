@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/SendUARTData/CM7/Core/Src/main.c:871:13:TouchGFX_Task	1
+C:/TouchGFXProjects/SendUARTData/CM7/Core/Src/main.c:120:6:HAL_UARTEx_RxEventCallback	2
+C:/TouchGFXProjects/SendUARTData/CM7/Core/Src/main.c:285:6:SystemClock_Config	4
+C:/TouchGFXProjects/SendUARTData/CM7/Core/Src/main.c:144:5:main	32
+C:/TouchGFXProjects/SendUARTData/CM7/Core/Src/main.c:961:6:HAL_TIM_PeriodElapsedCallback	2
+C:/TouchGFXProjects/SendUARTData/CM7/Core/Src/main.c:979:6:Error_Handler	1
