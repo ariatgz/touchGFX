@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/MultiScreen/CM7/TouchGFX/gui/src/model/Model.cpp:4:1:Model::Model()	1
+C:/TouchGFXProjects/MultiScreen/CM7/TouchGFX/gui/src/model/Model.cpp:9:6:void Model::tick()	1
+C:/TouchGFXProjects/MultiScreen/CM7/TouchGFX/gui/src/model/Model.cpp:14:6:void Model::saveToggleButton(bool)	1
+C:/TouchGFXProjects/MultiScreen/CM7/TouchGFX/gui/src/model/Model.cpp:21:6:bool Model::getBtnState()	1
+C:/TouchGFXProjects/MultiScreen/CM7/TouchGFX/gui/src/model/Model.cpp:28:6:void Model::setSliderValue(int)	1
+C:/TouchGFXProjects/MultiScreen/CM7/TouchGFX/gui/src/model/Model.cpp:34:5:int Model::getSliderValue()	1
