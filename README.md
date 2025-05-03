@@ -10,4 +10,4 @@ Welcome to the **TouchGFX Projects** repository! This collection features real-t
 - **STM32 HAL Drivers**  
 - **C/C++**
 
-  ![UI]([https://github.com/ariatgz/touchGFX/blob/main/photo_2025-05-03_00-54-53.jpg])
+  ![UI](https://github.com/ariatgz/touchGFX/blob/main/photo_2025-05-03_00-54-53.jpg)
