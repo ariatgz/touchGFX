@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/FunctionGenerator/CM7/TouchGFX/gui/src/model/Model.cpp:17:1:Model::Model()	0	static
+C:/TouchGFXProjects/FunctionGenerator/CM7/TouchGFX/gui/src/model/Model.cpp:22:6:void Model::tick()	0	static
+C:/TouchGFXProjects/FunctionGenerator/CM7/TouchGFX/gui/src/model/Model.cpp:27:6:void Model::SquareClicked()	8	static
+C:/TouchGFXProjects/FunctionGenerator/CM7/TouchGFX/gui/src/model/Model.cpp:38:6:void Model::SineClicked()	8	static
+C:/TouchGFXProjects/FunctionGenerator/CM7/TouchGFX/gui/src/model/Model.cpp:47:6:void Model::TriAngleClicked()	8	static
+C:/TouchGFXProjects/FunctionGenerator/CM7/TouchGFX/gui/src/model/Model.cpp:56:6:void Model::TriClicked()	8	static
